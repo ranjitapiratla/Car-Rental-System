@@ -3,7 +3,7 @@
 define('DB_HOST','localhost');
 define('DB_USER','root');
 define('DB_PASS','');
-define('DB_NAME','CyborgsCarRental');
+define('DB_NAME','Cyborgscarrental');
 // Establish database connection.
 try
 {
